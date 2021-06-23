@@ -1,7 +1,7 @@
 Sample website to help PS students to:
 
 fork this repository on Github.
-make a clone.
+make a clon.
 init local repository.
 make some changes1.
 add the changes.
